@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=BlueChipStock
-comment1.params=label\ ownedBy\ price\ shares\ ratio
-comment1.target=BlueChipStock(java.lang.String,\ java.lang.String,\ double,\ int,\ double)
-comment2.params=label\ ownedBy\ price\ shares\ dividend\ ratio
-comment2.target=BlueChipStock(java.lang.String,\ java.lang.String,\ double,\ int,\ double,\ double)
-numComments=3

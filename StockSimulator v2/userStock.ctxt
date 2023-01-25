@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=userStock
+comment1.params=
+comment1.target=userStock()
+comment2.params=stock
+comment2.target=void\ addStock(Stock)
+comment3.params=label
+comment3.target=boolean\ stockExists(java.lang.String)
+comment4.params=label
+comment4.target=Stock\ getStock(java.lang.String)
+comment5.params=
+comment5.target=java.util.Map\ getStockCollection()
+numComments=6

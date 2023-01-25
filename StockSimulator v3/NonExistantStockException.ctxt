@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=NonExistantStockException
+comment1.params=label
+comment1.target=NonExistantStockException(java.lang.String)
+numComments=2

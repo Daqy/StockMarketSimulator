@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=StockPortfolio
+comment1.params=
+comment1.target=StockPortfolio()
+comment2.params=stock
+comment2.target=void\ addStock(Stock)
+comment3.params=label
+comment3.target=boolean\ stockExists(java.lang.String)
+comment4.params=stock
+comment4.target=void\ removeStock(Stock)
+comment5.params=label\ moreStock
+comment5.target=Stock\ mergeStock(java.lang.String,\ Stock)
+comment6.params=label\ shares
+comment6.target=Stock\ substractStockShares(java.lang.String,\ int)
+comment7.params=label\ shares
+comment7.target=boolean\ stockSharesDoNotSurpassThreshold(java.lang.String,\ int)
+comment8.params=label
+comment8.target=Stock\ getStock(java.lang.String)
+comment9.params=
+comment9.target=java.util.Map\ getStockCollection()
+numComments=10

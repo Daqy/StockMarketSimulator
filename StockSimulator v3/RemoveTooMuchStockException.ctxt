@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=RemoveTooMuchStockException
+comment1.params=label\ sharesToRemove
+comment1.target=RemoveTooMuchStockException(java.lang.String,\ int)
+numComments=2

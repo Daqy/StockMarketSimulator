@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IFile
+comment1.params=location
+comment1.target=IFile(java.lang.String)
+comment2.params=
+comment2.target=Account\ getAccount()
+comment3.params=
+comment3.target=StockMarket\ getMarket()
+comment4.params=
+comment4.target=java.lang.String\ read()
+comment5.params=account\ stockMarket
+comment5.target=void\ write(Account,\ StockMarket)
+numComments=6

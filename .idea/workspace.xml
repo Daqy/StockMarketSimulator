@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a673be44-eea3-4ddc-a6f6-7004fba66e4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/display/CLIInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/display/ScreenInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/stocks/exceptions/userOptionOutOfRangeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/stocks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/stocks/PerNameStockPortfolio.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/stocks/PerNameStockPorfolio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/stocks/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/stocks/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/stocks/StockMarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/stocks/StockMarket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/stocks/StockPortfolio.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/stocks/StockPortfolio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StockMarketSimulator/stocks/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StockMarketSimulator/stocks/PerNameStockPorfolio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StockMarketSimulator/stocks/PerNameStockPorfolio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StockMarketSimulator/stocks/Stock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StockMarketSimulator/stocks/Stock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StockMarketSimulator/stocks/StockMarket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StockMarketSimulator/stocks/StockMarket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StockMarketSimulator/stocks/StockMarketTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StockMarketSimulator/stocks/StockMarketTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StockMarketSimulator/stocks/StockPortfolio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StockMarketSimulator/stocks/StockPortfolio.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YvtBbxcqY4LlJbICy4CgaXCAMa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/java" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="stocks" />
+      <recent name="display" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="StockMarketSimulator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisplayTest.menuDisplayed_getUserInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StockMarketSimulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="display.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="display" />
+      <option name="MAIN_CLASS_NAME" value="display.DisplayTest" />
+      <option name="METHOD_NAME" value="menuDisplayed_getUserInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockMarketTest.purchaseStock_internalStockPortfolioDecrease" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StockMarketSimulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stocks" />
+      <option name="MAIN_CLASS_NAME" value="stocks.StockMarketTest" />
+      <option name="METHOD_NAME" value="purchaseStock_internalStockPortfolioDecrease" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockMarketTest.sellStock_internalStockPortfolioIncrease" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StockMarketSimulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stocks" />
+      <option name="MAIN_CLASS_NAME" value="stocks.StockMarketTest" />
+      <option name="METHOD_NAME" value="sellStock_internalStockPortfolioIncrease" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockPortfolioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StockMarketSimulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stocks" />
+      <option name="MAIN_CLASS_NAME" value="stocks.StockPortfolioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.DisplayTest.menuDisplayed_getUserInput" />
+        <item itemvalue="JUnit.StockMarketTest.sellStock_internalStockPortfolioIncrease" />
+        <item itemvalue="JUnit.StockMarketTest.purchaseStock_internalStockPortfolioDecrease" />
+        <item itemvalue="JUnit.StockPortfolioTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a673be44-eea3-4ddc-a6f6-7004fba66e4a" name="Default Changelist" comment="" />
+      <created>1583834761855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583834761855</updated>
+      <workItem from="1583834770694" duration="7846000" />
+      <workItem from="1583852085815" duration="10886000" />
+      <workItem from="1584039854380" duration="174000" />
+      <workItem from="1584107123545" duration="3143000" />
+      <workItem from="1584273814938" duration="8108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="105" y="172" key="#Java" timestamp="1583839020702">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="105" y="172" key="#Java/0.0.2048.1112@0.0.2048.1112" timestamp="1583839020702" />
+    <state x="92" y="92" width="1736" height="866" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583854260118">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1583854260118" />
+    <state x="803" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583852213097">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="803" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1583852213097" />
+    <state x="751" y="376" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584274234215">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="751" y="376" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584274234215" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1583852189007">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1583852189007" />
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom" timestamp="1584283377485">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584283377485" />
+    <state width="2005" height="289" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1583842811692" />
+    <state width="1877" height="243" key="GridCell.Tab.0.center" timestamp="1584283377484">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584283377484" />
+    <state width="2005" height="289" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1583842811692" />
+    <state width="1877" height="243" key="GridCell.Tab.0.left" timestamp="1584283377484">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584283377484" />
+    <state width="2005" height="289" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1583842811692" />
+    <state width="1877" height="243" key="GridCell.Tab.0.right" timestamp="1584283377484">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584283377484" />
+    <state width="2005" height="289" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1583842811692" />
+    <state x="21" y="199" key="SettingsEditor" timestamp="1583839002109">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="21" y="199" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1583839002109" />
+    <state x="776" y="303" key="chooseDestDirectoryDialog" timestamp="1584275979263">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="776" y="303" key="chooseDestDirectoryDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584275979263" />
+    <state x="656" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1584273832591">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="359" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1584273832591" />
+    <state x="700" y="380" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1583834780604" />
+    <state x="754" y="450" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583834828503">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="754" y="450" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2048.1112@0.0.2048.1112" timestamp="1583834828503" />
+  </component>
+</project>

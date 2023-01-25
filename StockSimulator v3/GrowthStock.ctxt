@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GrowthStock
+comment1.params=label\ ownedBy\ price\ shares
+comment1.target=GrowthStock(java.lang.String,\ java.lang.String,\ double,\ int)
+comment10.params=value
+comment10.target=void\ setSuccessFactor(double)
+comment11.params=
+comment11.target=double\ getGrowthFactor()
+comment2.params=label\ ownedBy\ price\ shares\ dividend\ ratio
+comment2.target=GrowthStock(java.lang.String,\ java.lang.String,\ double,\ int,\ double,\ double)
+comment3.params=
+comment3.target=void\ updatePrice()
+comment4.params=min\ max
+comment4.target=int\ getRdnNumber(int,\ int)
+comment5.params=min
+comment5.target=double\ getRdnDouble(double)
+comment6.params=EarningPerShare\ payoutRatio
+comment6.target=void\ updateDividend(double,\ double)
+comment7.params=
+comment7.target=double\ getRiskFactor()
+comment8.params=
+comment8.target=double\ getSuccessFactor()
+comment9.params=value
+comment9.target=void\ setRiskFactor(double)
+numComments=12
